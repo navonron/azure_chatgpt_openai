@@ -1,0 +1,80 @@
+button {
+  cursor: pointer;
+  outline: none;
+  &.outline {
+    position: relative;
+    z-index: 3;
+    background: transparent;
+    color: #0f2895;
+    font-size: 14px;
+    border-color: #0f2895;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 22px;
+    padding: 10px 40px;
+    text-transform: uppercase;
+    transition: all 0.2s linear;
+    a {
+      text-decoration: none;
+    }
+  }
+  &.outline:hover {
+    color: white;
+    background: #0f2895;
+    border-color: white;
+    transition: all 0.2s linear;
+  }
+  &.outline:active {
+    border-radius: 22px;
+  }
+  &.purple-white {
+    font-weight: 700;
+    color: #33598f;
+    border-color: #33598f;
+    background: transparent;
+  }
+  &.purple-white:hover {
+    color: white;
+    background: #33598f;
+    border-color: #33598f;
+  }
+  &.white-purple {
+    font-weight: 700;
+    color: #33598f;
+    border-color: white;
+    background: white;
+  }
+  &.white-purple:hover {
+    color: white;
+    background: #33598f;
+    border-color: white;
+  }
+}
+
+button.purple-white {
+  border-radius: 4px;
+  margin: 20px;
+}
+
+.message {
+  background: none;
+  border: none;
+  margin-top: 10px;
+  cursor: pointer;
+  padding: 4px;
+  position: sticky;
+}
+
+.send_img {
+  width: 20px;
+  height: 20px;
+  margin-right: 2px;
+}
+
+img.send_img {
+    margin-right: 3px;
+}
+
+button.message {
+    float: right;
+}

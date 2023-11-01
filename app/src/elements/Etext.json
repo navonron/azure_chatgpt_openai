@@ -1,0 +1,12 @@
+{
+  "tenantId": "4ef3713c-b419-4335-a516-ad42bbf5fc35",
+  "clientId": "d1464606-e1fe-4622-b44a-84e946320750",
+  "redirectUri": "http://localhost:3000/callback",
+  "apiURL": "https://localhost:7204",
+  "getIP": "https://api.ipify.org?format=json",
+  "welcome": "Welcome to Isracard OpenAI Application",
+  "welcome_p": "To continue press the button",
+  "chatHeader": "Isracrd OpenAI",
+  "button": "Continue",
+  "authError": "An error occured during authentication, please try again!"
+}

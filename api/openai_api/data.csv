@@ -1,0 +1,18 @@
+﻿userEmail,clientIP,question,answer,dlpAns,date,type
+ron@ceazlab.onmicrosoft.com,77.137.192.249,what is terraform?,"Terraform is an open-source infrastructure as code software tool developed by HashiCorp. It enables users to define and provision a data center infrastructure using a high-level configuration language, known as HashiCorp Configuration Language (HCL), or optionally JSON. With Terraform, users can create, manage, and update infrastructure resources such as virtual machines, DNS entries, load balancers, and more across various cloud providers like AWS, Google Cloud, Microsoft Azure, etc. It helps in automating the infrastructure deployment process, making it faster, more efficient, and less error-prone.",True,08/28/2023 00:00:00,UI
+test,test,test,Hello! How can I assist you today?,True,08/28/2023 00:00:00,API
+test,test,find my ip service,"There are several websites that can help you find your IP address. Some popular options include:
+
+1. WhatIsMyIP.com
+2. IPChicken.com
+3. WhatIsMyIPAddress.com
+4. WhatIsMyIP.net
+5. CheckMyIP.com
+
+Simply visit one of these websites and your IP address should be displayed on the homepage.",True,08/28/2023 00:00:00,API
+test,test,test,Hello! How can I assist you today?,True,08/28/2023 00:00:00,API
+ron@ceazlab.onmicrosoft.com,77.137.192.249,what is azure openai?,"Azure OpenAI is a collaboration between Microsoft Azure, a cloud computing platform, and OpenAI, an artificial intelligence research laboratory. The collaboration aims to provide advanced AI capabilities to developers, researchers, and businesses through the Azure cloud platform. This includes access to powerful machine learning models, tools, and infrastructure to build and deploy AI applications at scale. The partnership also focuses on advancing AI research and promoting ethical practices in AI development.",True,08/28/2023 00:00:00,UI
+ron@ceazlab.onmicrosoft.com,77.137.192.249,what is terraform?,"Terraform is an open-source infrastructure as code software tool created by HashiCorp. It allows developers to define and provision a variety of cloud resources, such as virtual machines, containers, and databases, using a declarative configuration language. Terraform supports multiple cloud providers, including Amazon Web Services, Microsoft Azure, Google Cloud Platform, and more. By using Terraform, developers can manage their infrastructure as code, version control their infrastructure changes, and automate the provisioning process.",True,08/28/2023 00:00:00,UI
+ron@ceazlab.onmicrosoft.com,77.137.192.249,מה זה כתובת ip?,"כתובת IP היא כתובת המזהה את מחשבך ברשת האינטרנט. המונח IP מקוצר מכתובת פרוטוקול אינטרנט (Internet Protocol address), והוא מכיל רצף של מספרים המזהים את המכשיר שלך ברשת. כתובת IP נחוצה כדי לאפשר למחשב שלך לתקשר עם שרתים אחרים ברשת האינטרנט ולגשת לשירותים רבים כגון דואר אלקטרוני, דפדפן אינטרנט, וכו'.",True,08/28/2023 00:00:00,UI
+ron@ceazlab.onmicrosoft.com,77.137.192.249,זה לא מה ששאלתי,"אני מצטער, אני לא הבנתי את השאלה שלך. אפשר לשאול שוב או לספק פרטים נוספים כדי שאוכל לעזור לך?",True,08/28/2023 00:00:00,UI
+ron@ceazlab.onmicrosoft.com,77.137.192.249,what is terraform?,"Terraform is an open-source infrastructure as code software tool that allows users to define and provision a data center infrastructure using a high-level configuration language. With Terraform, users can manage popular service providers as well as custom in-house solutions. Terraform can be used to manage almost any type of infrastructure, including physical servers, virtual machines, container orchestration platforms, and more.",True,09/03/2023 00:00:00,UI
